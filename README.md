@@ -3,6 +3,8 @@
 슈퍼 패미컴용 「メタルマックス2」(Metal Max 2, 1993) 한국어 번역 패치입니다.
 **베타판**이라 번역 검토가 다 끝나지 않았습니다 (아래 「베타 안내」).
 
+> **피드백·버그 제보는 Discord 로**: **https://discord.gg/3qQ3drmwQV** (장소·인물·앞뒤 대사와 스크린샷을 함께 올려 주세요)
+
 ![대화 장면](screenshot.png)
 
 비공식 팬 번역입니다. 이 패치에는 게임 롬이 들어 있지 않으며, 원본 게임은 직접 준비해야 합니다.
@@ -65,7 +67,7 @@
 
 ## 오류 제보
 
-오역·오타·어색한 문장·깨지는 화면을 발견하면 [Issues](https://github.com/beck4679-alt/MetalMax2-KR/issues) 에 남겨 주세요.
+오역·오타·어색한 문장·깨지는 화면을 발견하면 [Discord](https://discord.gg/3qQ3drmwQV) 나 [Issues](https://github.com/beck4679-alt/MetalMax2-KR/issues) 에 남겨 주세요.
 화면 캡처와 장소(마을·인물), 앞뒤 대사를 함께 적어 주시면 찾기 쉽습니다.
 
 ## 글꼴
